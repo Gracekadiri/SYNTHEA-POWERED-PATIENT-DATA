@@ -69,7 +69,7 @@ ORDER BY COUNT(*) DESC
 LIMIT 5;
 
 #Which patients have not been assigned a care plan?
-SELECT patients.first, patients.last, careplans.description
+SELECT Count(patients.PATIENT)
 FROM patients 
 LEFT JOIN careplans
 ON patients.patient = careplans.patient
