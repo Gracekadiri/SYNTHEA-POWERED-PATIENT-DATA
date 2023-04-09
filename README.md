@@ -134,7 +134,7 @@ WHERE address NOT LIKE '%us%'
 
 - No patients live outside the US.
 
-#Based on the findings, 
+# Recommendations
 - The data shows that out of the 1462 patients, only 1140 have been immunized. This means that there is still a significant number of patients who have not been immunized, and it is important to increase awareness and education on the importance of immunization to prevent the spread of diseases.
 - It is recommended that healthcare providers focus on preventive measures to reduce the incidence of viral sinusitis (disorder), as it is the most common condition among patients. Healthcare providers should also prioritize preventing acute viral pharyngitis (disorder), prediabetes,  acute bronchitis and  hypertension  as these are also prevalent conditions among patients.
 - Although the number of patients with allergies is relatively low compared to the total number of patients in the dataset, it is still important to raise awareness about allergies and how to manage them. Healthcare providers can educate patients on how to identify allergy triggers and how to manage allergy symptoms.
