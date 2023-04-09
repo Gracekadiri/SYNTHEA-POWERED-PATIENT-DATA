@@ -3,7 +3,9 @@
 Synthea is an open-source patient simulator that generates synthetic medical records of realistic patients. These records can be used for various purposes, such as training machine learning models or conducting research on healthcare trends. In this project, we will be analyzing Synthea-powered patient data to gain insights into the demographic and health-related characteristics of the patients.
 # Aim:
 The aim of this project is to analyze the Synthea-generated patient data and provide insights into the demographic and health-related characteristics of the patients. The analysis will involve data cleaning, exploratory data analysis, and making recommendations based on the findings.
-
+# Data Source
+The dataset is located on data.world platform
+https://data.world/sparklesquad/exercises-for-dataworld-sql-tutorial
 # Questions
 - Determine the total number of patients, patients immunized, the number of male and female patients, and patients with allergies?
 - How many male and female patients have been immunized?
@@ -39,9 +41,12 @@ The aim of this project is to analyze the Synthea-generated patient data and pro
 - No patients live outside the US.
 
 #Based on the findings, 
-Consider developing targeted treatment plans for viral sinusitis (disorder), as it is the most common condition among patients. Healthcare providers should also prioritize preventing acute viral pharyngitis (disorder), hypertension, prediabetes, and  as these are also prevalent conditions among patients.
-it is recommended that healthcare providers focus on preventive measures to reduce the incidence of acute bronchitis, acute viral pharyngitis, hypertension, prediabetes, and viral sinusitis as they are the most common conditions among patients. 
-Efforts should be made to reduce the prevalence of allergies, especially those related to mould, dander, and house dust mite.
-The most common reason for patient visits is Outpatient Encounter, which indicates that outpatient care needs to be given more importance.
-Since all patients live in the US, the analysis can be used to create targeted healthcare plans for specific demographics and conditions prevalent in the US.
+- The data shows that out of the 1462 patients, only 1140 have been immunized. This means that there is still a significant number of patients who have not been immunized, and it is important to increase awareness and education on the importance of immunization to prevent the spread of diseases.
+- It is recommended that healthcare providers focus on preventive measures to reduce the incidence of viral sinusitis (disorder), as it is the most common condition among patients. Healthcare providers should also prioritize preventing acute viral pharyngitis (disorder), prediabetes,  acute bronchitis and  hypertension  as these are also prevalent conditions among patients.
+- Although the number of patients with allergies is relatively low compared to the total number of patients in the dataset, it is still important to raise awareness about allergies and how to manage them. Healthcare providers can educate patients on how to identify allergy triggers and how to manage allergy symptoms.
+- With patients from different ethnicities, healthcare providers should receive cultural competence training to understand the cultural backgrounds and beliefs of their patients. This will help to improve the quality of care and strengthen patient-provider relationships.
+- The most common reason for patient visits is Outpatient Encounter, which indicates that outpatient care needs to be given more importance.
+- Since all patients live in the US, healthcare providers should continue to monitor patients living in the US to prevent the spread of infectious diseases and prevent outbreaks.
+
+
 
