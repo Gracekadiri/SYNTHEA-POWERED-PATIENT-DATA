@@ -18,6 +18,10 @@ https://data.world/sparklesquad/exercises-for-dataworld-sql-tutorial
 - Number of patients that have not been assigned a care plan?
 - What are the most common medications prescribed, and what is the corresponding Condition?
 - Determine the number of patients living outside of the United States.
+
+# Dashboard
+![PATIENT](https://user-images.githubusercontent.com/106782819/230750850-ee718f57-fad9-4d57-8772-2082a5f2810f.png)
+
 # Findings 
 
 - The total number of patients in the dataset is 1462, out of which 1140 have been immunized, and 157 have allergies. The dataset has 741 male patients and 721 female patients.
